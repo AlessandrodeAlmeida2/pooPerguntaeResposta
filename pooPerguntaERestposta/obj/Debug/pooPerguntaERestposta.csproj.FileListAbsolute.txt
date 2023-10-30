@@ -1,0 +1,7 @@
+C:\Users\Usuário\source\repos\pooPerguntaERestposta\pooPerguntaERestposta\obj\Debug\pooPerguntaERestposta.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\pooPerguntaERestposta\pooPerguntaERestposta\obj\Debug\pooPerguntaERestposta.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\pooPerguntaERestposta\pooPerguntaERestposta\bin\Debug\pooPerguntaERestposta.exe.config
+C:\Users\Usuário\source\repos\pooPerguntaERestposta\pooPerguntaERestposta\bin\Debug\pooPerguntaERestposta.exe
+C:\Users\Usuário\source\repos\pooPerguntaERestposta\pooPerguntaERestposta\bin\Debug\pooPerguntaERestposta.pdb
+C:\Users\Usuário\source\repos\pooPerguntaERestposta\pooPerguntaERestposta\obj\Debug\pooPerguntaERestposta.exe
+C:\Users\Usuário\source\repos\pooPerguntaERestposta\pooPerguntaERestposta\obj\Debug\pooPerguntaERestposta.pdb
